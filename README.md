@@ -39,6 +39,10 @@ Entre que una idea aparece y esta se vuelve algo que se lleva a cabo o pone en p
 ## Por qué
 La creatividad no suele ser algo que se pueda invocar a voluntad, es más bien algo que le sucede a la gente creativa, así, cuando las ideas aparecen, más vale documentarlas en algun lugar.
 
+
+## Cómo
+En la carpeta docs, por ahora solo en español, podrás encontrar una planilla excel que es el template que se utiliza para documentar las ideas.
+
 ## Licencia
 El mundo contemporaneo plantea demasiados desafíos como para darse el lujo de desperdiciar ideas. Las oganizaciones de todo tipo, más que nunca antes en la hitoria de nuestra especie necesitan abrazar la creatividad de quienes las integran.
 "Esta metodología se distribuye bajo una licencia Creative Commons Atribución 4.0 Internacional (CC BY-NC-SA 4.0). Para ver una copia de esta licencia, visita https://creativecommons.org/licenses/by-nc-sa/4.0/."
