@@ -1,7 +1,7 @@
 # Método Quintiliano-Remix (+)
 **Idiomas / Languages:** [Español](docs/es/README.md) | [English](docs/en/README.md) | [Português](docs/pt/README.md) | [Français](docs/fr/README.md)
 ## Qué es
-La parte más difícil de concebir y a la vez la más fácil y breve de documentarde la creatividad es *la idea* .
+La parte más difícil de concebir y a la vez la más fácil y breve de documentar de la creatividad es *la idea* .
 El método Quintiliano-Remix, busca ofrecer un marco sistematizable para la administración de la creatividad y las ideas en el contexto de los proyectos, nace a partir de las clásicas preguntas quintilianas o Siete Locuciones.
 - Qué (Quid): Define la acción, el problema o el acontecimiento principal.
 - Por qué (Cur): Explica la causa, el motivo o la razón detrás de la acción.
