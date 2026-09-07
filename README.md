@@ -14,7 +14,7 @@ El método Quintiliano-Remix, busca ofrecer un marco sistematizable para la admi
 Y agrega una extra
 - Cuánto (quad): Cuantifica la o las cantidades de elementos o recursos involucrados.
 
-Además Plantea que para definir el qué de forma veloz y completa, se deben usar los elementos de la creatividad propuestos por de [Kirby Ferguson](https://en.wikipedia.org/wiki/Kirby_Ferguson) en [Everithing is a Remix](https://www.youtube.com/watch?v=wq5D43qAsVg)
+Además plantea que para definir el qué de forma veloz y completa, se deben usar los elementos de la creatividad propuestos por de [Kirby Ferguson](https://en.wikipedia.org/wiki/Kirby_Ferguson) en [Everithing is a Remix](https://www.youtube.com/watch?v=wq5D43qAsVg)
 - Copiar
 - Modificar
 - Combinar
@@ -37,7 +37,7 @@ Entre que una idea aparece y esta se vuelve algo que se lleva a cabo o pone en p
 
 
 ## Por qué
-La creatividad no suele ser algo que se pueda invocar a voluntar, es más bien algo que le sucede a la gente creativa, así, cuando las ideas aparecen, más vale documentarlas en algun lugar.
+La creatividad no suele ser algo que se pueda invocar a voluntad, es más bien algo que le sucede a la gente creativa, así, cuando las ideas aparecen, más vale documentarlas en algun lugar.
 
 ## Licencia
 El mundo contemporaneo plantea demasiados desafíos como para darse el lujo de desperdiciar ideas. Las oganizaciones de todo tipo, más que nunca antes en la hitoria de nuestra especie necesitan abrazar la creatividad de quienes las integran.
