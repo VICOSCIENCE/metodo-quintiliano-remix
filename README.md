@@ -41,7 +41,10 @@ La creatividad no suele ser algo que se pueda invocar a voluntad, es más bien a
 
 
 ## Cómo
-En la carpeta docs, por ahora solo en español, podrás encontrar una planilla excel que es el template que se utiliza para documentar las ideas.
+En la carpeta [docs](docs/es), por ahora solo en español, podrás encontrar una planilla excel que es el template que se utiliza para documentar las ideas.
+
+## Quién
+Este método fue inventado y perfeccionado por Cristián Aguirre durante los años en los que trabajó en la industria de los videojuegos, en la actualidad es la forma en que en su empresa, [VICO SCIENCE](https://vicoscience.com/), se administran las ideas y creatividad.
 
 ## Licencia
 El mundo contemporaneo plantea demasiados desafíos como para darse el lujo de desperdiciar ideas. Las oganizaciones de todo tipo, más que nunca antes en la hitoria de nuestra especie necesitan abrazar la creatividad de quienes las integran.
